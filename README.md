@@ -8,14 +8,4 @@
 Kachma6/Kachma6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
- - Esta es la rama login a partir de main
- - Esta es la mara login-uno a partir de login
- - cambio uno en rama login-uno
- - conflicto
-
-
- - Cambio en rama login{}
- - cambio dos en rema login
-
- - cambio tres rama conflicto
- - linea 21 para conflicto
+- empezar otra vez

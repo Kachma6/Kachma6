@@ -19,7 +19,11 @@ You can click the Preview link to take a look at your changes.
 
  - cambio tres rama conflicto
 <<<<<<< HEAD
+<<<<<<< HEAD
  - linea 21 para conflicto
 =======
  - cambio rama login y usuario diferente
 >>>>>>> fa4c73c (login kachma)
+=======
+ - cambio rama login y usuario diferente x2
+>>>>>>> 624599d (x2)
